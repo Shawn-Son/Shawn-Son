@@ -2,24 +2,28 @@
 
 # 👋 Minhyeok Son (Shawn)
 
-**Data drives business—let’s make it happen.**
+**I turn data into business results—across any industry, anywhere.**
 
 - 🏫 M.S. in Data Science @ University of Michigan  
 - 💼 Former Researcher @ SeoulTech Industrial AI Lab  
-- 📊 Applying data science, analytics, and automation to solve real-world business problems—**across any industry**
+- 🌍 International student (F-1 visa), fully eligible for internship (CPT) and full-time roles (OPT) in the U.S.  
+- 📊 My expertise: using data science, analytics, and automation to solve **real business problems across diverse industries**—from manufacturing to healthcare, finance, marketing and retail.
 
 ---
 
-## 💡 What I Bring
+## 💡 What Makes Me Different
 
-- **End-to-end data science and analytics:**  
-  From data wrangling to deployment, including modeling, dashboards, and business insight.
+- **End-to-end ownership:**  
+  I build complete solutions—from messy data and EDA, to modeling, dashboards, and deployment.
   
-- **Business-focused impact:**  
-  Translating data into actionable recommendations, measurable value, and better decisions.
+- **Business-first mindset:**  
+  I always ask, "What will move the needle for the business?" Not just models, but measurable impact.
   
-- **Collaboration & communication:**  
-  Explaining technical results clearly to any audience, and working with cross-functional teams.
+- **Proven versatility:**  
+  My projects span multiple domains—industrial AI, healthcare, finance, customer analytics—proving I adapt and deliver value anywhere.
+  
+- **Storytelling & teamwork:**  
+  I explain technical results in clear business language, bridging engineers, business, and leadership.
 
 ---
 
@@ -77,7 +81,7 @@
 
 ## 🤝 Open to Opportunities
 
-*I’m actively seeking full-time and internship positions as a Data Scientist, Data Analyst, or Business Analyst (any industry, any location).  
-Let’s talk if you want to turn data into value!*
+*I’m actively seeking full-time and internship positions as a Data Scientist, Data Analyst, or Business Analyst—open to all industries and locations (U.S. CPT/OPT eligible).  
+Let’s connect if you want a data-driven partner who delivers real results, not just code.*
 
 ---
