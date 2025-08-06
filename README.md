@@ -4,9 +4,12 @@
 
 **I turn data into business results—across any industry, anywhere.**
 
-- 🏫 M.S. in Data Science @ University of Michigan  
-- 💼 Former Researcher @ SeoulTech Industrial AI Lab  
-- 🌍 International student (F-1 visa), fully eligible for internship (CPT) and full-time roles (OPT) in the U.S.  
+- 🏫 M.S. in Data Science @ University of Michigan
+  
+- 💼 Former Researcher @ SeoulTech Industrial AI Lab
+  
+- 🌍 International student (F-1 visa), fully eligible for internship (CPT) and full-time roles (OPT) in the U.S.
+  
 - 📊 My expertise: using data science, analytics, and automation to solve **real business problems across diverse industries**—from manufacturing to healthcare, finance, marketing and retail.
 
 ---
