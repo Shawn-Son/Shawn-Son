@@ -1,32 +1,52 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1a1a1a&height=120&section=header&text=Welcome%20to%20Son's%20Github&fontColor=87CEEB&fontSize=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=2)
 
-## About Me
+# 👋 Minhyeok Son (Shawn)
 
-**Data-driven explorer building the future with machine learning and analytics.**
+**Data drives business—let’s make it happen.**
 
-Hi, I’m Son!  
-I’m a **Master’s student in Data Science** at the University of Michigan.  
-My passion is **data-driven discovery** and **intelligent automation**.
-
-Previously, I worked at **SeoulTech’s Industrial AI Lab**, applying machine learning to real-world problems.
+- 🏫 M.S. in Data Science @ University of Michigan  
+- 💼 Former Researcher @ SeoulTech Industrial AI Lab  
+- 📊 Applying data science, analytics, and automation to solve real-world business problems—**across any industry**
 
 ---
 
-**Main focus areas**
-- **Data Science & Machine Learning**
-- Predictive modeling
-- Pattern discovery in complex datasets
+## 💡 What I Bring
+
+- **End-to-end data science and analytics:**  
+  From data wrangling to deployment, including modeling, dashboards, and business insight.
+- **Business-focused impact:**  
+  Translating data into actionable recommendations, measurable value, and better decisions.
+- **Collaboration & communication:**  
+  Explaining technical results clearly to any audience, and working with cross-functional teams.
 
 ---
 
-I enjoy  
-- Solving tough problems  
-- Learning new skills  
-- Collaborating with others who love technology and innovation
+## 🏆 Impact Highlights
+
+- **Boosted rare event prediction AUROC by 4%** using knowledge distillation and uncertainty sampling.  
+  → *Improved accuracy in real business settings, not just in theory.*
+- **Ranked in the top 15% out of 500 teams in the DACON data science competition.**
+- **Conference presenter:**  
+  → *Shared cost-saving ML strategies with industry and academia.*
 
 ---
 
-**Let’s connect** if you want to talk about machine learning, data science, or research!
+## 🔥 Featured Projects
+
+- [AutoML for Everyone](https://github.com/Marcus-Son/User-Friendly-Auto-ML-Service)  
+  *No-code ML platform—anyone can analyze, model, and interpret their own data in minutes.*
+
+- [Knowledge Distillation for Efficient Prediction](https://github.com/Marcus-Son/Knowledge-Distillation-for-cost-effective-fault-Prediction-in-manufacturing-process)  
+  *Cost-effective predictive modeling—focused on real-world business metrics and deployment.*
+
+- [Speech Classification and Calibration](https://github.com/Marcus-Son/Classification_and_Calibration_of_Dysarthric_Speech)  
+  *Advanced ML for healthcare—early disease detection and model calibration.*
+
+- [Reliable AI with Knowledge Distillation & Calibration](https://github.com/Marcus-Son/Optimal-Combination-of-Knowledge-Distillation-and-Calibration-Techniques-for-Reliable-AI-Models)  
+  *Systematic benchmarking for model reliability and trustworthiness.*
+
+- [Time Series Event Detection](https://github.com/Marcus-Son/Fault-Point-Labeling-and-Fault-Detection-in-Time-Series-Data)  
+  *Real-time anomaly and event detection in complex data.*
 
 ---
 
@@ -44,12 +64,6 @@ I enjoy
 
 ---
 
-## 🛠 Tools
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marcus-Son)
-
----
-
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawn22587@gmail.com)
@@ -57,21 +71,9 @@ I enjoy
 
 ---
 
-## 🔥 Featured Projects
+## 🤝 Open to Opportunities
 
-- [User Friendly AutoML Program for Everyone](https://github.com/Marcus-Son/User-Friendly-Auto-ML-Service)  
-  *AutoML pipeline for efficient model selection and deployment(Python).*
+*I’m actively seeking full-time and internship positions as a Data Scientist, Data Analyst, or Business Analyst (any industry, any location).  
+Let’s talk if you want to turn data into value!*
 
-- [Knowledge Distillation for Cost-Effective Fault Prediction in Manufacturing Process](https://github.com/Marcus-Son/Knowledge-Distillation-for-cost-effective-fault-Prediction-in-manufacturing-process)  
-  *2023 Fall Academic Conference, Korean Institute of Industrial Engineers. Efficient defect detection through knowledge distillation.*
-
-- [Classification and Calibration of Dysarthric Speech](https://github.com/Marcus-Son/Classification_and_Calibration_of_Dysarthric_Speech)  
-  *Deep learning for early dysarthria diagnosis. Focus on clinical calibration and speech classification (Jupyter).*
-
-- [Optimal Combination of Knowledge Distillation and Calibration Techniques for Reliable AI Models](https://github.com/Marcus-Son/Optimal-Combination-of-Knowledge-Distillation-and-Calibration-Techniques-for-Reliable-AI-Models)  
-  *Systematic evaluation of KD and calibration techniques under class imbalance for trustworthy AI (Jupyter).*
-
-- [Fault Point Labeling and Fault Detection in Time Series Data](https://github.com/Marcus-Son/Fault-Point-Labeling-and-Fault-Detection-in-Time-Series-Data)  
-  *3rd K-AI Manufacturing Data Analysis Competition. Real-time fault detection in industrial time series data (Jupyter).*
-
-**↓ Check out my key projects below!**
+---
