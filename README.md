@@ -14,8 +14,10 @@
 
 - **End-to-end data science and analytics:**  
   From data wrangling to deployment, including modeling, dashboards, and business insight.
+  
 - **Business-focused impact:**  
   Translating data into actionable recommendations, measurable value, and better decisions.
+  
 - **Collaboration & communication:**  
   Explaining technical results clearly to any audience, and working with cross-functional teams.
 
@@ -25,7 +27,9 @@
 
 - **Boosted rare event prediction AUROC by 4%** using knowledge distillation and uncertainty sampling.  
   → *Improved accuracy in real business settings, not just in theory.*
+  
 - **Ranked in the top 15% out of 500 teams in the DACON data science competition.**
+  
 - **Conference presenter:**  
   → *Shared cost-saving ML strategies with industry and academia.*
 
