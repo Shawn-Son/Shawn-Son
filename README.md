@@ -32,14 +32,16 @@
 
 ## 🏆 Impact Highlights
 
-- **Boosted rare event prediction AUROC by 4%** using knowledge distillation and uncertainty sampling.  
-  → *Improved accuracy in real business settings, not just in theory.*
+- **Top-3 out of 100 teams%** in eBay University ML Competition — German eBay NER
+  → *Built an end-to-end XLM-R / mDeBERTa + word-level CRF model with rule/lexicon priors and a verifier-gating ensemble.*
+
+- **Flight Delay Prediction (American Airline-Sponsored Project)**  
+  → *Engineered weather, schedule, and congestion features and trained tree-based models, achieving ≈3.2 test MSE on held-out
+flights and outperforming baselines.*
+
   
 - **Ranked in the top 15% out of 500 teams in the DACON data science competition.**
   
-- **Conference presenter:**  
-  → *Shared cost-saving ML strategies with industry and academia.*
-
 ---
 
 ## 🔥 Featured Projects
