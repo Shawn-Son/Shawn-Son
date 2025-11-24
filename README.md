@@ -32,7 +32,7 @@
 
 ## 🏆 Impact Highlights
 
-- **Top-3 out of 100 teams%** in eBay University ML Competition — German eBay NER
+- **Top-3 out of 100 teams in eBay University ML Competition — German eBay NER**
   → *Built an end-to-end XLM-R / mDeBERTa + word-level CRF model with rule/lexicon priors and a verifier-gating ensemble.*
 
 - **Flight Delay Prediction (American Airline-Sponsored Project)**  
