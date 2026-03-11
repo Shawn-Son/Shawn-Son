@@ -43,8 +43,8 @@ I am especially interested in applied ML problems where performance, robustness,
 
 ## Publication
 
-**Heo, J., Son, M., & Shim, J.**  
-*Active inspection with knowledge distillation for cost-effective fault prediction in manufacturing process*  
+[**Active inspection with knowledge distillation for cost-effective fault prediction in manufacturing process**](https://www.nature.com/articles/s41598-026-39412-8)  
+Heo, J., Son, M., & Shim, J.  
 **Scientific Reports**, 2026
 
 ---
