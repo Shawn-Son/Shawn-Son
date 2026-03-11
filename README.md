@@ -1,92 +1,97 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1a1a1a&height=120&section=header&text=Welcome%20to%20Son's%20Github&fontColor=87CEEB&fontSize=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1a1a1a&height=120&section=header&text=Minhyeok%20Son&fontColor=87CEEB&fontSize=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=2)
 
-# 👋 Minhyeok Son (Shawn)
+# Minhyeok Son (Shawn)
 
-**I turn data into business results—across any industry, anywhere.**
+**M.S. in Data Science @ University of Michigan**  
+Applied Machine Learning for real-world systems: **fault detection, time-series modeling, forecasting, and reliable prediction**
 
-- 🏫 M.S. in Data Science @ University of Michigan
-  
-- 💼 Former Researcher @ SeoulTech Industrial AI Lab
-  
-- 🌍 International student (F-1 visa), fully eligible for internship (CPT) and full-time roles (OPT) in the U.S.
-  
-- 📊 My expertise: using data science, analytics, and automation to solve **real business problems across diverse industries**—from manufacturing to healthcare, finance, marketing and retail.
+- Former Research Assistant @ SeoulTech Industrial AI Lab
+- Incoming Machine Learning Engineer Intern @ eBay
+- U.S. work authorization: F-1 visa, CPT authorized for internships, STEM OPT eligible for full-time roles
 
 ---
 
-## 💡 What Makes Me Different
+## About Me
 
-- **End-to-end ownership:**  
-  I build complete solutions—from messy data and EDA, to modeling, dashboards, and deployment.
-  
-- **Business-first mindset:**  
-  I always ask, "What will move the needle for the business?" Not just models, but measurable impact.
-  
-- **Proven versatility:**  
-  My projects span multiple domains—industrial AI, healthcare, finance, customer analytics—proving I adapt and deliver value anywhere.
-  
-- **Storytelling & teamwork:**  
-  I explain technical results in clear business language, bridging engineers, business, and leadership.
+I build machine learning systems for high-stakes, noisy, real-world data.
+
+My work has focused on:
+- **manufacturing ML** for fault prediction and cost-effective inspection,
+- **time-series and operational modeling** for large-scale decision support,
+- **model reliability** through calibration and explainability,
+- and **applied ML pipelines** from data processing to evaluation and deployment-oriented analysis.
+
+I am especially interested in applied ML problems where performance, robustness, and operational usefulness matter more than benchmark results alone.
 
 ---
 
-## 🏆 Impact Highlights
+## Selected Highlights
 
-- **Top-3 out of 100 teams in eBay University ML Competition — German eBay NER**
-  → *Built an end-to-end XLM-R / mDeBERTa + word-level CRF model with rule/lexicon priors and a verifier-gating ensemble.*
+- **Co-author, Scientific Reports (2026)**  
+  Published research on active inspection with knowledge distillation for cost-effective fault prediction in manufacturing processes.
 
-- **Flight Delay Prediction (American Airline-Sponsored Project)**  
-  → *Engineered weather, schedule, and congestion features and trained tree-based models, achieving ≈3.2 test MSE on held-out
-flights and outperforming baselines.*
+- **Manufacturing Fault Detection**
+  Built and optimized ML models on **2.9M+ sensor/time-series records** and used **SHAP** to support threshold tuning and engineer interpretation.
 
-  
-- **Ranked in the top 15% out of 500 teams in the DACON data science competition.**
-  
----
+- **Flight Delay Prediction (American Airlines-sponsored project)**  
+  Built a large-scale feature pipeline over **1M+ flight legs** using airline operations, weather, and congestion data.
 
-## 🔥 Featured Projects
-
-- [AutoML for Everyone](https://github.com/Marcus-Son/User-Friendly-Auto-ML-Service)  
-  *No-code ML platform—anyone can analyze, model, and interpret their own data in minutes.*
-
-- [Knowledge Distillation for Efficient Prediction](https://github.com/Marcus-Son/Knowledge-Distillation-for-cost-effective-fault-Prediction-in-manufacturing-process)  
-  *Cost-effective predictive modeling—focused on real-world business metrics and deployment.*
-
-- [Speech Classification and Calibration](https://github.com/Marcus-Son/Classification_and_Calibration_of_Dysarthric_Speech)  
-  *Advanced ML for healthcare—early disease detection and model calibration.*
-
-- [Reliable AI with Knowledge Distillation & Calibration](https://github.com/Marcus-Son/Optimal-Combination-of-Knowledge-Distillation-and-Calibration-Techniques-for-Reliable-AI-Models)  
-  *Systematic benchmarking for model reliability and trustworthiness.*
-
-- [Time Series Event Detection](https://github.com/Marcus-Son/Fault-Point-Labeling-and-Fault-Detection-in-Time-Series-Data)  
-  *Real-time anomaly and event detection in complex data.*
+- **Top 15% in DACON Data Science Competition**  
+  Ranked in the top 15% out of 500 teams.
 
 ---
 
-## 🛠 Tech Stack
+## Publication
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+**Heo, J., Son, M., & Shim, J.**  
+*Active inspection with knowledge distillation for cost-effective fault prediction in manufacturing process*  
+**Scientific Reports**, 2026
 
 ---
 
-## 📬 Contact
+## Featured Projects
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawn22587@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhyeokson)
+### [Knowledge Distillation for Cost-Effective Fault Prediction](https://github.com/Shawn-Son/Knowledge-Distillation-for-cost-effective-fault-Prediction-in-manufacturing-process)
+Applied ML for semiconductor manufacturing with a focus on early fault screening, active inspection, and cost-sensitive decision-making.
+
+### [Fault Detection in Time-Series Data](https://github.com/Shawn-Son/Fault-Point-Labeling-and-Fault-Detection-in-Time-Series-Data)
+Real-time fault detection pipeline built on large-scale sensor and event data, with emphasis on interpretability and deployment-oriented modeling.
+
+### [Speech Classification and Calibration](https://github.com/Shawn-Son/Classification_and_Calibration_of_Dysarthric_Speech)
+Speech-based classification and reliability analysis for clinically relevant data, including calibration-focused evaluation.
+
+### [Reliable AI with Knowledge Distillation & Calibration](https://github.com/Shawn-Son/Optimal-Combination-of-Knowledge-Distillation-and-Calibration-Techniques-for-Reliable-AI-Models)
+Benchmarking combinations of distillation and calibration techniques for more reliable predictive systems.
 
 ---
 
-## 🤝 Open to Opportunities
+## Technical Skills
 
-*I’m actively seeking full-time and internship positions as a Data Scientist, Data Analyst, or Business Analyst—open to all industries and locations (U.S. CPT/OPT eligible).  
-Let’s connect if you want a data-driven partner who delivers real results, not just code.*
+**Languages**  
+Python, SQL (PostgreSQL)
+
+**Machine Learning**  
+scikit-learn, XGBoost, PyTorch, TensorFlow
+
+**Core Areas**  
+Time-series modeling, anomaly/fault detection, model calibration, explainability (SHAP), feature engineering, supervised learning
+
+**Tools**  
+Docker, Git, Jupyter
 
 ---
+
+## Contact
+
+- Email: [shawn22587@gmail.com](mailto:shawn22587@gmail.com)
+- LinkedIn: [linkedin.com/in/minhyeokson](https://www.linkedin.com/in/minhyeokson)
+
+---
+
+## Current Focus
+
+I am currently interested in ML roles involving:
+- industrial and energy systems,
+- operational forecasting,
+- reliability-aware ML,
+- and applied machine learning for real-world decision support.
