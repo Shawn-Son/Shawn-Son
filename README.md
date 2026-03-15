@@ -27,6 +27,8 @@ I am especially interested in applied ML problems where performance, robustness,
 
 ## Selected Highlights
 
+- **3rd Place, eBay University ML Competition**  
+
 - **Co-author, Scientific Reports (2026)**  
   Published research on active inspection with knowledge distillation for cost-effective fault prediction in manufacturing processes.
 
@@ -36,8 +38,6 @@ I am especially interested in applied ML problems where performance, robustness,
 - **Flight Delay Prediction (American Airlines-sponsored project)**  
   Built a large-scale feature pipeline over **1M+ flight legs** using airline operations, weather, and congestion data.
 
-- **Top 15% in DACON Data Science Competition**  
-  Ranked in the top 15% out of 500 teams.
 
 ---
 
