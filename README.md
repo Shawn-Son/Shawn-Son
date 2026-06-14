@@ -5,8 +5,8 @@
 **M.S. in Data Science @ University of Michigan**  
 Applied Machine Learning for real-world systems: **fault detection, time-series modeling, forecasting, and reliable prediction**
 
+- Machine Learning Engineer Intern @ eBay (May–Aug 2026)
 - Former Research Assistant @ SeoulTech Industrial AI Lab
-- Incoming Machine Learning Engineer Intern @ eBay
 - U.S. work authorization: F-1 visa, CPT authorized for internships, STEM OPT eligible for full-time roles
 
 ---
@@ -19,9 +19,23 @@ My work has focused on:
 - **manufacturing ML** for fault prediction and cost-effective inspection,
 - **time-series and operational modeling** for large-scale decision support,
 - **model reliability** through calibration and explainability,
+- **applied NLP / LLM systems** for information extraction and real-world monitoring,
 - and **applied ML pipelines** from data processing to evaluation and deployment-oriented analysis.
 
 I am especially interested in applied ML problems where performance, robustness, and operational usefulness matter more than benchmark results alone.
+
+---
+
+## Experience
+
+### Machine Learning Engineer Intern — eBay  
+*San Jose, CA · May 2026 – Aug 2026*
+
+- Building an internal **LLM-powered monitoring workflow** that lets Compliance analysts track the operational signals they need from a single natural-language query, orchestrated in Python.
+- Engineered logic that links **code events** (config changes, refreshes, new deployments) to anomalous spikes and dips, enabling **self-service root-cause analysis** for non-technical teammates.
+- Benchmarked successive **model and config versions** on detection accuracy, latency, and efficiency, iterating toward a faster, more reliable workflow.
+
+> *Note: Internal eBay work is proprietary and cannot be shared as code; the description above is intentionally high-level.*
 
 ---
 
@@ -74,10 +88,10 @@ Python, SQL (PostgreSQL)
 scikit-learn, XGBoost, PyTorch, TensorFlow
 
 **Core Areas**  
-Time-series modeling, anomaly/fault detection, model calibration, explainability (SHAP), feature engineering, supervised learning
+Time-series modeling, anomaly/fault detection, NLP / Transformers, model calibration, explainability (SHAP), feature engineering, supervised learning
 
 **Tools**  
-Docker, Git, Jupyter
+Git, Jupyter
 
 ---
 
@@ -94,4 +108,5 @@ I am currently interested in ML roles involving:
 - industrial and energy systems,
 - operational forecasting,
 - reliability-aware ML,
+- applied NLP and LLM-based systems (information extraction, monitoring),
 - and applied machine learning for real-world decision support.
