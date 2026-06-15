@@ -3,7 +3,7 @@
 # Minhyeok Son (Shawn)
 
 **M.S. in Data Science @ University of Michigan**  
-Applied Machine Learning for real-world systems: **fault detection, time-series modeling, forecasting, and reliable prediction**
+Applied Machine Learning for real-world systems: **NLP / LLM information extraction, time-series modeling, fault detection, and reliable prediction**
 
 - Machine Learning Engineer Intern @ eBay (May–Aug 2026)
 - Former Research Assistant @ SeoulTech Industrial AI Lab
@@ -16,11 +16,11 @@ Applied Machine Learning for real-world systems: **fault detection, time-series 
 I build machine learning systems for high-stakes, noisy, real-world data.
 
 My work has focused on:
-- **manufacturing ML** for fault prediction and cost-effective inspection,
+- **applied ML pipelines** from data processing to evaluation and deployment-oriented analysis,
+- **applied NLP / LLM systems** for information extraction and real-world monitoring,
 - **time-series and operational modeling** for large-scale decision support,
 - **model reliability** through calibration and explainability,
-- **applied NLP / LLM systems** for information extraction and real-world monitoring,
-- and **applied ML pipelines** from data processing to evaluation and deployment-oriented analysis.
+- and **manufacturing ML** for fault prediction and cost-effective inspection.
 
 I am especially interested in applied ML problems where performance, robustness, and operational usefulness matter more than benchmark results alone.
 
@@ -42,16 +42,16 @@ I am especially interested in applied ML problems where performance, robustness,
 ## Selected Highlights
 
 - **3rd Place, eBay University ML Competition**  
+  Multilingual named-entity recognition on noisy, short e-commerce text.
 
 - **Co-author, Scientific Reports (2026)**  
   Published research on active inspection with knowledge distillation for cost-effective fault prediction in manufacturing processes.
 
-- **Manufacturing Fault Detection**
+- **Manufacturing Fault Detection**  
   Built and optimized ML models on **2.9M+ sensor/time-series records** and used **SHAP** to support threshold tuning and engineer interpretation.
 
 - **Flight Delay Prediction (American Airlines-sponsored project)**  
   Built a large-scale feature pipeline over **1M+ flight legs** using airline operations, weather, and congestion data.
-
 
 ---
 
@@ -88,10 +88,10 @@ Python, SQL (PostgreSQL)
 scikit-learn, XGBoost, PyTorch, TensorFlow
 
 **Core Areas**  
-Time-series modeling, anomaly/fault detection, NLP / Transformers, model calibration, explainability (SHAP), feature engineering, supervised learning
+NLP / Transformers, time-series modeling, anomaly/fault detection, model calibration, explainability (SHAP), feature engineering, supervised learning
 
 **Tools**  
-Git, Jupyter
+Git, Docker, Jupyter
 
 ---
 
@@ -105,8 +105,7 @@ Git, Jupyter
 ## Current Focus
 
 I am currently interested in ML roles involving:
-- industrial and energy systems,
-- operational forecasting,
-- reliability-aware ML,
-- applied NLP and LLM-based systems (information extraction, monitoring),
-- and applied machine learning for real-world decision support.
+- applied ML systems for real-world decision support,
+- NLP / LLM-based information extraction and monitoring,
+- reliability-aware ML (calibration, explainability),
+- and large-scale time-series and operational modeling.
