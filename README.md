@@ -23,28 +23,27 @@ Rare-defect detection on **2.9M-row** manufacturing sensor streams — methodolo
 
 ## Featured Projects
 
+**[Agentic RAG Security Assistant](https://github.com/Shawn-Son/Agentic-RAG)**
+Offline-first LLM agent for security-alert triage — hybrid RAG (**+25pp** recall@5) with bounded, audit-traced tool plans in Python + Go.
+
 **[Knowledge Distillation for Cost-Effective Fault Prediction](https://github.com/Shawn-Son/Knowledge-Distillation-for-cost-effective-fault-Prediction-in-manufacturing-process)**
 Matched high-cost model accuracy with cheap features on **~263K** semiconductor units (**<2%** defect rate) — basis of the published paper.
+
+**[AutoML Service](https://github.com/Shawn-Son/Auto-ML-Service)**
+No-code Streamlit app — raw data to trained models with SHAP reports in **15 min**, across **4** auto-detected problem types.
 
 **[Fault Detection in Time-Series Data](https://github.com/Shawn-Son/Fault-Point-Labeling-and-Fault-Detection-in-Time-Series-Data)**
 Real-time defect detection on a **2.9M-row** heat-treatment sensor stream with XGBoost + SHAP root-cause analysis.
 
-**[User-Friendly AutoML Platform](https://github.com/Shawn-Son/User-Friendly-Auto-ML-Service)**
-No-code Streamlit app — raw data to trained models with SHAP reports in **15 min**, across **4** auto-detected problem types.
-
-**[Speech Classification & Calibration](https://github.com/Shawn-Son/Classification_and_Calibration_of_Dysarthric_Speech)**
-Dysarthria detection from speech spectrograms — **94.4%** accuracy with **1.5%** ECE via CNN ensembles.
-
-**[Reliable AI: Distillation × Calibration](https://github.com/Shawn-Son/Optimal-Combination-of-Knowledge-Distillation-and-Calibration-Techniques-for-Reliable-AI-Models)**
-Benchmarked **128** KD-calibration combinations under severe class imbalance on CIFAR-10/100.
+<sub>**More on GitHub** — [Aster](https://github.com/Shawn-Son/arxiv-recsys) (citation-aware arXiv recsys, in progress) · [Kalshi Auto Trader](https://github.com/Shawn-Son/kalshi-auto-trader) (risk-first Python/C++ execution infra) · [Dysarthric Speech Calibration](https://github.com/Shawn-Son/Classification_and_Calibration_of_Dysarthric_Speech) (94.4% acc, 1.5% ECE)</sub>
 
 ---
 
 ## Technical Skills
 
-**Languages** — Python, Java, SQL (PostgreSQL)
-**ML / DL** — PyTorch, scikit-learn, TensorFlow, XGBoost, Transformers / NLP, knowledge distillation, model calibration
-**Data & Tools** — pandas, NumPy, SHAP, Streamlit, Docker, Git
+**Languages** — Python, Java, SQL (PostgreSQL), Go
+**ML / DL** — PyTorch, scikit-learn, TensorFlow, XGBoost, Transformers / NLP, LLM agents / RAG, knowledge distillation, model calibration
+**Data & Tools** — pandas, NumPy, SHAP, FastAPI, Streamlit, Docker, Git
 
 ---
 
