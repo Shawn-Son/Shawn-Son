@@ -23,19 +23,19 @@ Rare-defect detection on **2.9M-row** manufacturing sensor streams — methodolo
 
 ## Featured Projects
 
-**[Agentic RAG Security Assistant](https://github.com/Shawn-Son/Agentic-RAG)**
-Offline-first LLM agent for security-alert triage — hybrid RAG (**+25pp** recall@5) with bounded, audit-traced tool plans in Python + Go.
+**[Agentic RAG Security Assistant](https://github.com/Shawn-Son/Agentic-RAG)** · *Python + Go · 2026*
+Offline-first LLM agent for security-alert triage — hybrid RAG (**+25pp** recall@5), bounded audit-traced tool plans, Go streaming ingestion with checkpoints and idempotent retries. Dockerized, CI + CodeQL.
 
-**[Knowledge Distillation for Cost-Effective Fault Prediction](https://github.com/Shawn-Son/Knowledge-Distillation-for-cost-effective-fault-Prediction-in-manufacturing-process)**
-Matched high-cost model accuracy with cheap features on **~263K** semiconductor units (**<2%** defect rate) — basis of the published paper.
+**[agentprof](https://github.com/Shawn-Son/agentprof)** · *Node.js · 2026*
+Token-waste profiler for Claude Code — attributes every context token to one of **7** waste kinds (stale context, duplicate reads, unused MCP tools, cache misses…) and prices it cache-aware in dollars. Zero-dependency single-file engine, installs as a skill with `npx agentprof init`.
 
-**[AutoML Service](https://github.com/Shawn-Son/Auto-ML-Service)**
-No-code Streamlit app — raw data to trained models with SHAP reports in **15 min**, across **4** auto-detected problem types.
+**[Knowledge Distillation for Cost-Effective Fault Prediction](https://github.com/Shawn-Son/Knowledge-Distillation-for-cost-effective-fault-Prediction-in-manufacturing-process)** · *PyTorch · published 2026*
+Matched high-cost model accuracy with cheap features on **~263K** semiconductor units (**<2%** defect rate) via KD + uncertainty sampling — basis of the *Scientific Reports* paper.
 
-**[Fault Detection in Time-Series Data](https://github.com/Shawn-Son/Fault-Point-Labeling-and-Fault-Detection-in-Time-Series-Data)**
-Real-time defect detection on a **2.9M-row** heat-treatment sensor stream with XGBoost + SHAP root-cause analysis.
+**[AutoML Service](https://github.com/Shawn-Son/Auto-ML-Service)** · *Streamlit · scikit-learn*
+No-code app — raw tabular data to tuned models with SHAP reports in **15 min**, across **3** auto-detected task types (classification, regression, time series).
 
-<sub>**More on GitHub** — [Aster](https://github.com/Shawn-Son/arxiv-recsys) (citation-aware arXiv recsys, in progress) · [Kalshi Auto Trader](https://github.com/Shawn-Son/kalshi-auto-trader) (risk-first Python/C++ execution infra) · [Dysarthric Speech Calibration](https://github.com/Shawn-Son/Classification_and_Calibration_of_Dysarthric_Speech) (94.4% acc, 1.5% ECE)</sub>
+<sub>**More on GitHub** — [Aster](https://github.com/Shawn-Son/arxiv-recsys) (citation-aware arXiv search + recsys: hybrid retrieval, FAISS, Python/TypeScript, in progress) · [Kalshi Auto Trader](https://github.com/Shawn-Son/kalshi-auto-trader) (risk-first Python/C++ execution infra: pre-trade risk kernel, idempotent orders, Brier-scored backtester) · [Dysarthric Speech Calibration](https://github.com/Shawn-Son/Classification_and_Calibration_of_Dysarthric_Speech) (94.4% acc, 1.5% ECE)</sub>
 
 ---
 
