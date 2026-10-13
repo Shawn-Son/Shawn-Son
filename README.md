@@ -35,8 +35,6 @@ Attribute extraction from **10K** German listing titles (XLM-R / mDeBERTa + word
 
 **[AutoML Service](https://github.com/Shawn-Son/Auto-ML-Service)** — no-code Streamlit app: upload tabular data → EDA, preprocessing, search over 10 algorithms, SHAP report; **3** task types.
 
-**[Kalshi Auto Trader](https://github.com/Shawn-Son/kalshi-auto-trader)** — risk-first execution infra for event contracts (Python + C++ risk kernel, idempotent orders, Brier-scored backtester). No strategy, no ROI claim.
-
 ---
 
 ## Background
