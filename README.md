@@ -23,9 +23,6 @@ Every context token attributed to one of **7** waste kinds (stale context, dupli
 ◇ waste $0.81 (38%: confirmed 24% + est 14%) │ stale 22% · tool-out 9% · MCP 7%
 ```
 
-**[Aster](https://github.com/Shawn-Son/arxiv-recsys) — Citation-aware arXiv search and recommendation.** · *Python + TypeScript · in development*
-Hybrid retrieval with FAISS, two-tower recs, cross-encoder reranking, versioned evaluation contract.
-
 ---
 
 ## Shipped
