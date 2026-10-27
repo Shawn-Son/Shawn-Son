@@ -2,18 +2,11 @@
 
 **M.S. Data Science, University of Michigan · new grad, May 2027** · 🇺🇸 F-1, 36-month STEM OPT, no sponsorship needed at hire
 
-I build and evaluate ML/LLM systems on messy real-world data: an LLM triage agent shipped at eBay, a *Scientific Reports* paper on cost-aware fault prediction, and now a benchmark for whether coding agents catch ML defects that never raise an error.
+I build and evaluate ML/LLM systems on messy real-world data: an LLM triage agent shipped at eBay, a *Scientific Reports* paper on cost-aware fault prediction, and a profiler that shows where a coding agent's tokens went.
 
 ---
 
-## Building now
-
-**[MLE-debug](https://github.com/Shawn-Son/MLE-debug) — Do coding agents catch silent ML-pipeline bugs, and leave the rest alone?** · *Python · Sep 2026*
-Injected leakage / bad splits / corrupted rows, headless agent runs, hidden-ground-truth grading on four checks. First track (leakage, UCI Adult): mid-tier model **3/3**, small model **0/1**. Next: no-defect control, difficulty ladder, non-Anthropic models.
-
-**[Agentic-RAG](https://github.com/Shawn-Son/Agentic-RAG) — Offline security-alert triage: hybrid RAG + PyTorch classifier + audit-traced tool plan.** · *Python + Go*
-Go streamer with checkpoints and idempotent retries; FastAPI, SQLite WAL, Prometheus, Compose, CI + CodeQL. No hosted LLM, API key, or GPU.
-*Latest:* dense-embedding backend (MiniLM, exact cosine index), measured on the same qrels: recall@5 BM25 **0.50** → hashed **0.75** → MiniLM **0.61**. The hashed win was partly circular, and the README [says so](https://github.com/Shawn-Son/Agentic-RAG#dense-embeddings-versus-feature-hashing).
+## Projects
 
 **[agentprof](https://github.com/Shawn-Son/agentprof) — Token-waste tracker for Claude Code, in dollars, in your status line.** · *Node.js*
 Every context token attributed to one of **7** waste kinds (stale context, duplicate reads, oversized output, unused MCP tools, cache misses, filler, retries); confirmed vs estimated shown separately. One zero-dependency file, installs as a skill.
