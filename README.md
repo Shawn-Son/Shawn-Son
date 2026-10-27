@@ -40,6 +40,6 @@ Attribute extraction from **10K** German listing titles (XLM-R / mDeBERTa + word
 
 ---
 
-**Skills** — Python, Go, SQL, Java · PyTorch, scikit-learn, XGBoost, Transformers, LLM agents / RAG, knowledge distillation, calibration · FastAPI, Docker, Streamlit, SHAP
+**Skills** — Python, SQL, Java · PyTorch, scikit-learn, XGBoost, Transformers, LLM agents / RAG, knowledge distillation, calibration · FastAPI, Docker, Streamlit, SHAP
 
 📧 [shawn22587@gmail.com](mailto:shawn22587@gmail.com) · 💼 [linkedin.com/in/minhyeokson](https://www.linkedin.com/in/minhyeokson) · 🌐 [minhyeokson-com.vercel.app](https://minhyeokson-com.vercel.app)
