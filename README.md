@@ -38,7 +38,7 @@ Every context token is assigned to one of **7** waste kinds (stale context, dupl
 ```
 
 **[AutoML Service](https://github.com/Shawn-Son/Auto-ML-Service)**: no-code Streamlit app for tabular data · *Python* · [demo](https://youtu.be/rONjcUmTDWk)
-Upload a CSV, and it detects the task type (classification, regression or time series), then runs EDA, preprocessing, a grid search over scikit-learn / XGBoost / LightGBM / Prophet candidates, and a downloadable SHAP report.
+Upload a CSV, and it detects the task type (classification, regression or time series), then runs EDA, preprocessing, a grid search over scikit-learn / XGBoost / LightGBM candidates (lag features for time series), and a downloadable SHAP report.
 
 <sub>Earlier research code: [dysarthric speech classification with calibration](https://github.com/Shawn-Son/Classification_and_Calibration_of_Dysarthric_Speech) (94.4% acc, 1.5% ECE) · [knowledge distillation × calibration on long-tailed CIFAR](https://github.com/Shawn-Son/Optimal-Combination-of-Knowledge-Distillation-and-Calibration-Techniques-for-Reliable-AI-Models) · [time-series fault detection](https://github.com/Shawn-Son/Fault-Point-Labeling-and-Fault-Detection-in-Time-Series-Data)</sub>
 
